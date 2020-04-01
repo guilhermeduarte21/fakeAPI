@@ -3,8 +3,8 @@
         {
             "id": 1,
             "nome": "Fulano da silva",
-            "numero": "(21) 98367-2847",
-            "data": "21/02/2012",
+            "numero": "21983672847",
+            "data": "2012-02-12",
             "hora": "13:00",
             "servico": "Cabelo",
             "descricaoServico": "luzes"
