@@ -1,13 +1,13 @@
 {
     "clientes": [
         {
-            "id": 1,
             "nome": "Fulano da silva",
             "numero": "21983672847",
             "data": "2012-02-12",
             "hora": "13:00",
             "servico": "Cabelo",
-            "descricaoServico": "luzes"
+            "descricaoServico": "luzes",
+            "id": 1
         }
     ]
   }
